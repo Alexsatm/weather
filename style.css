@@ -17,12 +17,9 @@ li {
     list-style-type: none;
 }
 
-
 .card {
     width: 90%;
     max-width: 800px;
-    /* background: linear-gradient(135deg, #458eec, #2fc1d1); */
-    /* background: linear-gradient(135deg, #d52121, #3fb351); */
     border-radius: 20px;
     color: #fff;
     margin: 100px auto 0;
